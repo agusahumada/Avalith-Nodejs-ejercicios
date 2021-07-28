@@ -1,0 +1,25 @@
+{
+  "name": "avalith-nodejs-ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusahumada/Avalith-Nodejs-ejercicios.git"
+  },
+  "author": "Agustina Ahumada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agusahumada/Avalith-Nodejs-ejercicios/issues"
+  },
+  "homepage": "https://github.com/agusahumada/Avalith-Nodejs-ejercicios#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
